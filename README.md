@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A barebones example showing how to setup React with D3. The data is from openweathermap.org. The chart shows the humidity level for the next 5 days of the chosen city.
+
+Demo can be viewed at:
+http://zainsyed-reactd3.surge.sh/
 
 ## Available Scripts
 
